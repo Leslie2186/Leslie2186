@@ -6,7 +6,7 @@
 
 😄 Etant curieuse de nature et passionnée par le développement, j’aime apprendre et me former sur de nouvelles technologies.
 
-#### Les langages que je maitrise :
+#### 🌱 Les langages que je maitrise :
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/html.svg)
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/css.svg)
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/javascript.svg)
@@ -16,6 +16,15 @@
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/MySQL.svg)
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/NodeJs.svg)
 
+
+#### 🌱 Les autres outils que j'utilise :
+- Photoshop
+- Figma
+- Premiere
+- Canva
+- Trello
+- Postman
+- Wordpress
 
 
 <!--
