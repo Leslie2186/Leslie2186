@@ -1,7 +1,7 @@
 # Bonjour, je m'appelle Leslie Pellegrin Moraud 👋
 ## Je suis développeuse web fullstack .
 
-🔭 Je recherche une alternance à partir du 26 février 2024 pour la formation : Développeur Web avancé Java/Angular.  
+🔭 Je recherche une alternance à partir du 26 février 2024 pour la formation : _Développeur Web avancé Java/Angular_.  
     Mon centre de formation est la Wild Code School ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/wildcodeschool.svg)
 
 😄 Etant curieuse de nature et passionnée par le développement, j’aime apprendre et me former sur de nouvelles technologies.
