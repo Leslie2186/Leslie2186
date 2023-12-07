@@ -1,5 +1,4 @@
 ### Bonjour, je m'appelle Leslie Pellegrin Moraud 👋
-![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/Photoleslie.jpg)
 Je suis développeuse web fullstack .
 
 🔭 Je recherche une alternance à partir du 26 février 2024 pour la formation : Développeur Web avancé Java/Angular.
