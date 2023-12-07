@@ -1,7 +1,12 @@
 ### Bonjour, je suis Leslie Pellegrin Moraud 👋
 
-<!--
-**Leslie2186/Leslie2186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis développeuse web fullstack .
+
+🔭 Je recherche une alternance à partir du 26 février 2024 pour la formation : Développeur Web avancé Java/Angular.
+    Mon centre de formation est la Wild Code School https://github.com/Leslie2186/Leslie2186/cover.jpg
+
+😄 Etant curieuse de nature et passionnée par le développement, j’aime apprendre et me former sur de nouvelles technologies.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
