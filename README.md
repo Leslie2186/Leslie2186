@@ -6,7 +6,7 @@
 
 😄 Etant curieuse de nature et passionnée par le développement, j’aime apprendre et me former sur de nouvelles technologies.
 
-#### Au niveau des outils que je maitrise :
+#### Les outils que je maitrise :
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/html.svg)
 
 Here are some ideas to get you started:
