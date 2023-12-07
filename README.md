@@ -3,7 +3,7 @@
 Je suis développeuse web fullstack .
 
 🔭 Je recherche une alternance à partir du 26 février 2024 pour la formation : Développeur Web avancé Java/Angular.
-    Mon centre de formation est la Wild Code School https://github.com/Leslie2186/Leslie2186/cover.jpg
+    Mon centre de formation est la Wild Code School https://github.com/Leslie2186/Leslie2186/wildcodeschool.svg
 
 😄 Etant curieuse de nature et passionnée par le développement, j’aime apprendre et me former sur de nouvelles technologies.
 
