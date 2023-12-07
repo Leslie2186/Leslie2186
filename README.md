@@ -8,6 +8,13 @@
 
 #### Les outils que je maitrise :
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/html.svg)
+- ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/css.svg)
+- ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/javascript.svg)
+- ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/reactJs.svg)
+- ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/ViteJs.svg)
+- ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/ExpressJs.svg)
+- ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/MySQL.svg)
+- ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/NodeJs.svg)
 
 
 
