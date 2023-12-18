@@ -6,7 +6,7 @@
 
 😄 Etant curieuse de nature et passionnée par le développement, j’aime apprendre et me former sur de nouvelles technologies.
 
-#### 🌱 Les langages que je maitrise :
+#### 🌱 Les langages et outils que je maitrise pour le développement :
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/html.svg)
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/css.svg)
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/javascript.svg)
@@ -20,7 +20,7 @@
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/VSCODE.svg)
 
 
-#### 🌱 Les autres outils que j'utilise :
+#### 🌱 Les autres outils que j'utilise pour la création de sites internet :
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/photoshop.svg)
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/figma.svg)
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/premiere.svg)
