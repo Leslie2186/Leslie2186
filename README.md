@@ -17,7 +17,7 @@
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/NodeJs.svg)
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/git.svg)
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/postman.svg)
-- ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/VSCode.svg)
+- ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/VSCODE.svg)
 
 
 #### 🌱 Les autres outils que j'utilise :
