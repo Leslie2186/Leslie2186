@@ -6,7 +6,7 @@ Mon centre de formation est la Wild Code School ![Cover](https://github.com/Lesl
 
 Etant curieuse de nature et passionnée par le développement, j’aime apprendre et me former sur de nouvelles technologies.
 
-#### 🌱 Les langages et outils que je maitrise pour le développement :
+#### 🔭 Les langages et outils que je maitrise pour le développement :
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/html.svg)
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/css.svg)
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/javascript.svg)
