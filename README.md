@@ -18,7 +18,7 @@
 
 
 #### 🌱 Les autres outils que j'utilise :
-- ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/photoshop.png)
+- ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/photoshop.svg)
 - Figma
 - Premiere
 - Canva
