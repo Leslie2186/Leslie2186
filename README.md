@@ -9,7 +9,9 @@ en test et en automatisation. Je recherche actuellement une entreprise
 innovante où je pourrais utiliser mon expertise pour contribuer à des solutions
 fiables et performantes.
 
-#### 🔭 Les langages et outils que je maitrise :
+#### 🔭 Les logiciels et langages que je maitrise :
+- ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/postman.svg)
+- Cypress
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/html.svg)
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/css.svg)
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/javascript.svg)
@@ -19,11 +21,10 @@ fiables et performantes.
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/MySQL.svg)
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/NodeJs.svg)
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/git.svg)
-- ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/postman.svg)
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/VSCODE.svg)
 
 
-#### 🌱 Les autres outils que j'utilise pour la création de sites internet :
+#### 🌱 Les autres outils que j'utilise pour les projets :
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/photoshop.svg)
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/figma.svg)
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/premiere.svg)
