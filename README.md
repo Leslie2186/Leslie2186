@@ -1,12 +1,15 @@
 # Bonjour, je m'appelle Leslie Pellegrin Moraud 😄
-## Je suis développeuse web fullstack .
+## Je suis testeuse QA - automaticienne
 
-Je recherche une alternance à partir du 26 février 2024 pour la formation 👯: __Développeur Web avancé Java/Angular__.  
-Mon centre de formation est la Wild Code School ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/wildcodeschool.svg)
+Forte d’une solide formation en informatique et d’une expérience significative
+dans le test logiciel, je suis attachée à l'excellence technique pour assurer une
+parfaite qualité des produits. Mes expériences m'ont permises d'explorer
+diverses technologies et environnements, renforçant ainsi mes compétences
+en test et en automatisation. Je recherche actuellement une entreprise
+innovante où je pourrais utiliser mon expertise pour contribuer à des solutions
+fiables et performantes.
 
-Etant curieuse de nature et passionnée par le développement, j’aime apprendre et me former sur de nouvelles technologies.
-
-#### 🔭 Les langages et outils que je maitrise pour le développement :
+#### 🔭 Les langages et outils que je maitrise :
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/html.svg)
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/css.svg)
 - ![Cover](https://github.com/Leslie2186/Leslie2186/blob/main/javascript.svg)
